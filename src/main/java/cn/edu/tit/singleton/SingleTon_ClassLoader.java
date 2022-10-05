@@ -1,7 +1,5 @@
 package cn.edu.tit.singleton;
 
-import com.sun.org.apache.bcel.internal.classfile.InnerClass;
-
 /**
  * 饿汉式  线程安全  利用类加载机制
  * 适用于 对静态字段使用线程安全的延迟化访问

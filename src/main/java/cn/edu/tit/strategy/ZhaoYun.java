@@ -1,5 +1,9 @@
 package cn.edu.tit.strategy;
 
+import cn.edu.tit.strategy.impl.BackDoor;
+import cn.edu.tit.strategy.impl.BlockEnemy;
+import cn.edu.tit.strategy.impl.GiveGreenLight;
+
 /**
  * @author lichuangbo
  * @version 1.0

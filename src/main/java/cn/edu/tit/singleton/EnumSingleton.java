@@ -1,8 +1,5 @@
 package cn.edu.tit.singleton;
 
-import com.sun.org.apache.bcel.internal.classfile.InnerClass;
-
-import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 /**

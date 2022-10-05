@@ -1,4 +1,6 @@
-package cn.edu.tit.strategy;
+package cn.edu.tit.strategy.impl;
+
+import cn.edu.tit.strategy.IStrategy;
 
 /**
  * ConcreteStrategy: 具体策略角色，包含具体的策略或算法

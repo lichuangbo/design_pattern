@@ -1,4 +1,6 @@
-package cn.edu.tit.strategy;
+package cn.edu.tit.strategy.impl;
+
+import cn.edu.tit.strategy.IStrategy;
 
 /**
  * @author lichuangbo
