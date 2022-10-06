@@ -8,6 +8,7 @@ package cn.edu.tit.proxy;
  */
 public class GamePlayerProxy implements IGamePlayer {
 
+    // 将被代理对象直接传入，这样的话，代理对象就可以直接操作被代理对象的方法了
     private IGamePlayer gamePlayer;
 
     public GamePlayerProxy(IGamePlayer gamePlayer) {

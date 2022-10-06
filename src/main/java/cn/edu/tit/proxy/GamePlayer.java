@@ -7,6 +7,7 @@ package cn.edu.tit.proxy;
  */
 public class GamePlayer implements IGamePlayer {
 
+    // name传递进类中，是为了后续代码this.name日志输出
     private String name = "";
 
     public GamePlayer(String name) {
